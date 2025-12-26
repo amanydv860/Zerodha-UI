@@ -13,7 +13,7 @@ export default function Hero() {
     </div>
 
     {/* Headline */}
-    <h1 className="text-4xl font-bold text-gray-700 mt-8">Invest in everything</h1>
+    <h1 className="text-4xl font-bold text-gray-700 mt-8">Inves in everything</h1>
 
     {/* Subtitle */}
     <p className="text-gray-600 text-lg mt-4">
